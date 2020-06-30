@@ -1,0 +1,80 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcGreeter";
+
+package greet;
+
+service Greeter {
+
+  // ========  群组有关  ========
+
+  rpc GetGroupList (GroupListRequest) returns (ResultReply);
+
+  rpc CreateGroup (GroupInfoRequest) returns (ResultReply);
+
+  rpc UpdateGroup (GroupInfoRequest) returns (ResultReply);
+  
+  rpc UpdateGroupMember (GroupInfoRequest) returns (ResultReply);
+
+  // 获取群组内用户列表
+  rpc GetGroupMember (GroupIDRequest) returns (ResultReply);
+
+  rpc GetGroupInfo (GroupIDRequest) returns (ResultReply);
+
+  rpc DeleteGroup (GroupIDRequest) returns (ResultReply);
+
+  // ========  用户管理  ========
+
+  // 保存用户
+  rpc SaveUser (UserInfoRequest) returns (ResultReply);
+
+  // 获取用户的初始化信息内容
+  rpc Init (UserInfoRequest) returns (ResultReply);
+
+  // 发送消息
+  rpc SendMessage (MessageContentRequest) returns (ResultReply);
+}
+
+// 请求获取群组列表
+message GroupListRequest {
+    string Type = 1;
+    string UserName = 2;
+}
+
+// 群组信息
+message GroupInfoRequest{
+    int32 GroupID = 1;
+    string Name = 2;
+    string Face = 3;
+    string Type = 4;
+    string Member = 5;
+}
+
+// 用户信息
+message UserInfoRequest{
+    string UserName = 1;
+    string NickName = 2;
+    string Face = 3;
+    string Type = 4;
+}
+
+// 消息内容
+message MessageContentRequest{
+    string UserName = 1;
+    string Type = 2;
+    // 消息接收对象
+    string ID = 3;
+    string Content = 4;
+}
+
+// 请求群组信息
+message GroupIDRequest{
+    int32 GroupID = 1;
+}
+
+// 公共的内容返回
+message ResultReply{
+    bool Success = 1;
+    string Message = 2;
+    string Info = 3;
+}

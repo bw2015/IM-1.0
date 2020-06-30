@@ -1,0 +1,12 @@
+E:\wwwroot\Common\IM 1.0\IMClient\bin\Debug\netcoreapp3.1\IMClient.deps.json
+E:\wwwroot\Common\IM 1.0\IMClient\bin\Debug\netcoreapp3.1\IMClient.dll
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.AssemblyInfoInputs.cache
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.AssemblyInfo.cs
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.csprojAssemblyReference.cache
+E:\wwwroot\Common\IM 1.0\IMClient\bin\Debug\netcoreapp3.1\IMClient.pdb
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.dll
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.pdb
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.csproj.CoreCompileInputs.cache
+E:\wwwroot\Common\IM 1.0\IMClient\bin\Debug\netcoreapp3.1\SP.StudioCore.dll
+E:\wwwroot\Common\IM 1.0\IMClient\bin\Debug\netcoreapp3.1\SP.StudioCore.pdb
+E:\wwwroot\Common\IM 1.0\IMClient\obj\Debug\netcoreapp3.1\IMClient.csproj.CopyComplete

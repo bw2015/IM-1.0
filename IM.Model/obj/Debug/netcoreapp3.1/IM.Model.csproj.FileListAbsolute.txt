@@ -1,0 +1,12 @@
+E:\wwwroot\Common\IM 1.0\IM.Model\bin\Debug\netcoreapp3.1\IM.Model.deps.json
+E:\wwwroot\Common\IM 1.0\IM.Model\bin\Debug\netcoreapp3.1\IM.Model.dll
+E:\wwwroot\Common\IM 1.0\IM.Model\bin\Debug\netcoreapp3.1\IM.Model.pdb
+E:\wwwroot\Common\IM 1.0\IM.Model\bin\Debug\netcoreapp3.1\SP.StudioCore.dll
+E:\wwwroot\Common\IM 1.0\IM.Model\bin\Debug\netcoreapp3.1\SP.StudioCore.pdb
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.csprojAssemblyReference.cache
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.csproj.CoreCompileInputs.cache
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.AssemblyInfoInputs.cache
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.AssemblyInfo.cs
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.csproj.CopyComplete
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.dll
+E:\wwwroot\Common\IM 1.0\IM.Model\obj\Debug\netcoreapp3.1\IM.Model.pdb
